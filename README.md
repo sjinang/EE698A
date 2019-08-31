@@ -1,2 +1,4 @@
-# EE698A
-EE698A - Machine Learning for Signal Processing at IITK
+# EE698A - Machine Learning for Signal Processing @ IITK
+
+Instructor - Prof. Vipul Arora
+Semester - Monsoon 2019
